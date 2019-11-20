@@ -1,0 +1,4 @@
+file a.out
+b main
+b func1
+r passphrases.txt
